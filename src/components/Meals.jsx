@@ -19,10 +19,8 @@ function Meals() {
 
   return (
     <ul id="meals">
-      {console.log(loadedMeals)}
       {loadedMeals.map((meal) => (
         <MealItem key={meal.id} meal={meal} />
-        // <li key={meal.id}>{meal.name}</li>
       ))}
     </ul>
   );
