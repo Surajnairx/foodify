@@ -2,56 +2,56 @@
   {
     "id": "m1",
     "name": "Mac & Cheese",
-    "price": "500",
+    "price": 500,
     "description": "Creamy cheddar cheese mixed with perfectly cooked macaroni, topped with crispy breadcrumbs. A classic comfort food.",
     "image": "images/mac-and-cheese.jpg"
   },
   {
     "id": "m2",
     "name": "Margherita Pizza",
-    "price": "350",
+    "price": 350,
     "description": "A classic pizza with fresh mozzarella, tomatoes, and basil on a thin and crispy crust.",
     "image": "images/margherita-pizza.jpg"
   },
   {
     "id": "m3",
     "name": "Caesar Salad",
-    "price": "250",
+    "price": 250,
     "description": "Romaine lettuce tossed in Caesar dressing, topped with croutons and parmesan shavings.",
     "image": "images/caesar-salad.jpg"
   },
   {
     "id": "m4",
     "name": "Spaghetti Carbonara",
-    "price": "350",
+    "price": 350,
     "description": "Al dente spaghetti with a creamy sauce made from egg yolk, pecorino cheese, pancetta, and pepper.",
     "image": "images/spaghetti-carbonara.jpg"
   },
   {
     "id": "m5",
     "name": "Veggie Burger",
-    "price": "150",
+    "price": 150,
     "description": "A juicy veggie patty served on a whole grain bun with lettuce, tomato, and a tangy sauce.",
     "image": "images/veggie-burger.jpg"
   },
   {
     "id": "m6",
     "name": "Grilled Chicken Sandwich",
-    "price": "180",
+    "price": 180,
     "description": "Tender grilled chicken breast with avocado, bacon, lettuce, and honey mustard on a toasted bun.",
     "image": "images/grilled-chicken-sandwich.jpg"
   },
   {
     "id": "m7",
     "name": "Steak Frites",
-    "price": "500",
+    "price": 500,
     "description": "Succulent steak cooked to your preference, served with crispy golden fries and herb butter.",
     "image": "images/steak-frites.jpg"
   },
   {
     "id": "m8",
     "name": "Sushi Roll Platter",
-    "price": "180",
+    "price": 180,
     "description": "An assortment of fresh sushi rolls including California, Spicy Tuna, and Eel Avocado.",
     "image": "images/sushi-roll-platter.jpg"
   },
@@ -128,7 +128,7 @@
   {
     "id": "m19",
     "name": "Lemon Cheesecake",
-    "price": "600",
+    "price": 600,
     "description": "A creamy cheesecake with a tangy lemon flavor, served on a crumbly biscuit base.",
     "image": "images/lemon-cheesecake.jpg"
   },
