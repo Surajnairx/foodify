@@ -2,7 +2,6 @@ import { currencyFormatter } from "../util/formatting";
 function CartItem({ name, quantity, price, onIncrease, onDecrease }) {
   return (
     <li className="cart-item">
-      {console.log(name, quantity, price)}
       <p>
         {name} - {quantity} x {currencyFormatter.format(price)}
       </p>
